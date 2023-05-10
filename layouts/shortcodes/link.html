@@ -1,0 +1,8 @@
+{{ with .Get "href" }}
+<p><a href="{{.}}" target="_blank">{{ end }}
+        {{ if .Get "title" }}
+        {{ .Get "title" }}
+        {{ else }}
+        {{ .Get "href" }}
+        {{ end }}
+    </a>({{ with .Get "href" }}<a href="https://archive.md/{{ . }}" target="_blank">{{ end }}魚拓</a>)</p>

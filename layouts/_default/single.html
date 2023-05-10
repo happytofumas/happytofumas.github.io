@@ -1,0 +1,21 @@
+{{- define "main" }}
+
+<ul class="tagsList single">
+    {{ range (.GetTerms "tags") }}
+    <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+    {{ end }}
+</ul>
+
+{{- .Content }}
+
+<div class="gallery">
+    {{ range .Resources.ByType "image" }}
+    {{ $original := . }}
+    {{ $thumbnail := $original.Fit "600x400 webp" }}
+    <a href="{{ $original.RelPermalink }}" target="_blank">
+        <img src="{{ $thumbnail.RelPermalink }}" alt="Thumbnail for the large image" />
+    </a>
+    {{ end }}
+</div>
+
+{{- end }}{{- /* end main */ -}}

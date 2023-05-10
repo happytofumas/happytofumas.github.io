@@ -1,0 +1,32 @@
+baseURL = 'https://happytofumas.github.io/'
+languageCode = 'ja-jp'
+title = 'My New Hugo Site'
+theme = 'index'
+pygmentsUseClasses = true
+
+[markup.highlight]
+codeFences = true
+guessSyntax = true
+lineNos = false
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[params.headers]
+key = "Title"
+value = "Tags"
+
+[permalinks]
+tags = "@:slug"
+
+[taxonomies]
+tag = "tags"
+
+[outputs]
+home = [ "HTML", "RSS", "JSON" ]
+
+[privacy.twitter]
+disabled = false
+enableDNT = true
+simple = true
+
