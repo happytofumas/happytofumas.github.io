@@ -58,8 +58,46 @@ jobs:
         run: |
           hugo \
             --gc \
-            --minify \
-            --baseURL "${{ steps.pages.outputs.base_url }}/"          
+            --minify  \
+            --baseURL "${{ steps.pages.outputs.base_url }}/"  
+      - name: Upload to IPFS
+        id: ipfs
+        uses: aquiladev/ipfs-action@v0.3.1
+        with:
+          path: ./public
+          service: filebase
+          pinName: 'ipfs-action'
+          filebaseBucket: ${{ secrets.FILEBASE_BUCKET }}
+          filebaseKey: ${{ secrets.FILEBASE_KEY }}
+          filebaseSecret: ${{ secrets.FILEBASE_SECRET }}
+      - name: Setup IPFS
+        run: |
+          echo -e "\nipfs = \"/ipfs/${{steps.ipfs.outputs.CID}}\"" >> config.toml
+          curl https://dist.ipfs.tech/kubo/v0.20.0/kubo_v0.20.0_linux-amd64.tar.gz | tar xvz
+          cd kubo
+          sudo bash install.sh
+          ipfs init
+      - name: Decrypt and import IPFS private key
+        run: |
+          openssl aes-256-cbc -d -pbkdf2 -in mykey.pem.enc -out mykey.pem -k ${{ secrets.IPFS_PRIVATE_KEY_PASS }}
+          ipfs key import mykey mykey.pem
+      - name: Publish to IPFS
+        run: |
+          ipfs daemon > /dev/null 2>&1 &
+          sleep 5
+          ipfs get /ipfs/${{steps.ipfs.outputs.CID}}
+          ipfs name publish --key=mykey /ipfs/${{steps.ipfs.outputs.CID}}
+        continue-on-error: true
+      - name: Build with Hugo
+        env:
+          # For maximum backward compatibility with Hugo modules
+          HUGO_ENVIRONMENT: production
+          HUGO_ENV: production
+        run: |
+          hugo \
+            --gc \
+            --minify  \
+            --baseURL "${{ steps.pages.outputs.base_url }}/"  
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
@@ -76,3 +114,6 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
+      - uses: atymic/sitemap-ping-action@master
+        with:
+            sitemap-url: "https://happytofumas.github.io/sitemap.xml"

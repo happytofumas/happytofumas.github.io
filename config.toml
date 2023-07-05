@@ -1,8 +1,10 @@
 baseURL = 'https://happytofumas.github.io/'
 languageCode = 'ja-jp'
-title = 'My New Hugo Site'
+title = 'トランスヘイトに加担している人物・団体のリスト'
 theme = 'index'
 pygmentsUseClasses = true
+relativeURLs = true
+images = ["banner.png"]
 
 [markup.highlight]
 codeFences = true
@@ -17,7 +19,7 @@ key = "Title"
 value = "Tags"
 
 [permalinks]
-tags = "@:slug"
+tags = "タグ@:slug"
 
 [taxonomies]
 tag = "tags"
@@ -30,3 +32,5 @@ disabled = false
 enableDNT = true
 simple = true
 
+[params]
+hideAllTagsinHome = true
