@@ -1,0 +1,11 @@
+---
+title: "法政大学大原社会問題研究所"
+---
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">制作者CBC Network（生命倫理文化ネットワークセンター）はウェブサイトを見れば分かりますが、反トランス（トランスの人びとがその人の性別で生きることを支える医療に反対）の組織で<a href="https://t.co/f2xSweKCBT">https://t.co/f2xSweKCBT</a>ヘリテージ財団などと繋がりがあります。<a href="https://t.co/cyYA67B5jA">https://t.co/cyYA67B5jA</a> <a href="https://t.co/Da44RrbTPn">https://t.co/Da44RrbTPn</a> <a href="https://t.co/6lbzWNNxHo">https://t.co/6lbzWNNxHo</a></p>&mdash; selfishprotein (@selfishprotein) <a href="https://twitter.com/selfishprotein/status/1457592727185494018?ref_src=twsrc%5Etfw">November 8, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">またCBC Network代表のJennifer Lahlは右派キリスト教系のゲイカップルの子育てに反対する本に寄稿しています。 <a href="https://t.co/GLgiIcg6RW">https://t.co/GLgiIcg6RW</a></p>&mdash; selfishprotein (@selfishprotein) <a href="https://twitter.com/selfishprotein/status/1457592969918226439?ref_src=twsrc%5Etfw">November 8, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">研究所<a href="https://twitter.com/oisr1919?ref_src=twsrc%5Etfw">@oisr1919</a> がどういう意図で「代理出産を問い直す会」に場を提供しているのか知らないけれど、1) フェミニズムと名乗りつつ、反トランス／反セックスワーク／反人身売買／反生殖医療技術の一部の運動は、一部の女性の権利や保護を盾に、ジェンダーとセクシュアリティの少数者への差別に加担し</p>&mdash; selfishprotein (@selfishprotein) <a href="https://twitter.com/selfishprotein/status/1457649145041223682?ref_src=twsrc%5Etfw">November 8, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">大原社研シネマ・フォーラムは参加申込受付中です！上映作品は11/26(金)『卵子提供―美談の裏側』、12/10(金)『代理出産―繁殖階級の女？』の2回。各回17時30分よりオンラインにて開催します。参加費無料、要事前申込。オンライン解説もあり。皆様ぜひご参加ください。<a href="https://t.co/100So11OqA">https://t.co/100So11OqA</a></p>&mdash; 法政大学大原社会問題研究所 (@oisr1919) <a href="https://twitter.com/oisr1919/status/1450359430608920579?ref_src=twsrc%5Etfw">October 19, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 

@@ -1,0 +1,7 @@
+---
+title: "金武美加代"
+---
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">トランスジェンダーとして生きる事を全否定する金武さん、最低だよ。<br>質が悪いとか子供を望む事が暴力だとか。よくも人の人生、選択をここまで侮辱できるよね。<br><br>トランス差別は風呂もトイレも関係ないんですよ。こういうこと！！<a href="https://t.co/ahGBy5HGQU">https://t.co/ahGBy5HGQU</a> <a href="https://t.co/gd0ULFt29H">pic.twitter.com/gd0ULFt29H</a></p>&mdash; ごろう (@gorogor71105327) <a href="https://twitter.com/gorogor71105327/status/1749663459820839120?ref_src=twsrc%5Etfw">January 23, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">2021年5月12日　沖縄の県庁前でハンスト中の　<a href="https://twitter.com/hashtag/%E9%87%91%E6%AD%A6%E7%BE%8E%E5%8A%A0%E4%BB%A3?src=hash&amp;ref_src=twsrc%5Etfw">#金武美加代</a>　が観光客に唾を吐き、腕を叩き、携帯を2回蹴るという警察に被害届が正式に受理されている暴行事件。<br><br>これは被害者であるyoさんの声をまとめたもの。<br><br>彼女を持ち上げていた方々、メディアも議員も、知らない人も見て欲しい。 <a href="https://t.co/l2Xkj0v784">https://t.co/l2Xkj0v784</a></p>&mdash; ごろう (@gorogor71105327) <a href="https://twitter.com/gorogor71105327/status/1411194457173618694?ref_src=twsrc%5Etfw">July 3, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 

@@ -1,0 +1,29 @@
+---
+title: "性別不合当事者の会"
+---
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">これは注意喚起ですが、<br>LGBT法案反対の記者会見などで時々メディアに登場する、「性別不合当事者の会」というのは、<br>性同一性障害などの当事者団体と称していますが、おかしな団体ですよ。<br><br>約１年半前、神奈川の某弁護士の関与の下に結成されましたが、LGBT法案反対くらいしか活動実態がありません。</p>&mdash; 弁護士仲岡しゅん(うるわ総合法律事務所) (@URUWA_L_O) <a href="https://twitter.com/URUWA_L_O/status/1662101254275993602?ref_src=twsrc%5Etfw">May 26, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">結成後、わずか１年半の間に、少なくとも、のべ１２名もの共同代表が入れ替わり、責任主体が不明ですし、<br>これまでどういった活動をしてきた人たちなのかも不明です。<br><br>しかも共同代表の中には、これまで散々トランス当事者に嫌がらせをしてきたシスジェンダーの人物も潜り込んでいました。 <a href="https://t.co/7gQSDvnSHc">https://t.co/7gQSDvnSHc</a></p>&mdash; 弁護士仲岡しゅん(うるわ総合法律事務所) (@URUWA_L_O) <a href="https://twitter.com/URUWA_L_O/status/1662102525083021314?ref_src=twsrc%5Etfw">May 26, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">みさねことふぉれすてぃが好き勝手やってるだけのむちゃくちゃな団体。<br>まともな当事者は嫌気さして出ていった。 <a href="https://t.co/GGPKXWKGGV">https://t.co/GGPKXWKGGV</a></p>&mdash; Mee (@ikirunogafuan) <a href="https://twitter.com/ikirunogafuan/status/1662102544250986498?ref_src=twsrc%5Etfw">May 26, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">｢生産性がない」の一言で炎上した「杉田論文｣。<br><br>当事者からは「差別ではない」という指摘があったにも拘わらず、当事者以外の人々が大騒ぎした。<br><br>挙句、抗議デモは「しばき隊」が企画したものだった。<br><br>第7章 3. ｢しばき隊」によって行われた抗議デモ。<a href="https://twitter.com/hashtag/LGBT?src=hash&amp;ref_src=twsrc%5Etfw">#LGBT</a><a href="https://t.co/hO6Q9oyFzB">https://t.co/hO6Q9oyFzB</a></p>&mdash; 千石杏香 ◆ 宣伝用 (@SK_senden) <a href="https://twitter.com/SK_senden/status/1571254096077926400?ref_src=twsrc%5Etfw">September 17, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">『同性愛者はマジョリティ』も意味分かんないんだけど、説明して？😳 @sushinyeo1 <a href="https://t.co/WJFCZRvJf4">pic.twitter.com/WJFCZRvJf4</a></p>&mdash; まるすけ (@marusuke_G) <a href="https://twitter.com/marusuke_G/status/1436129883202088960?ref_src=twsrc%5Etfw">September 10, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ちょ、ちょっと、ちょっと待って！<br>待って待って待って！！<br><br>この『しらおり』って、あの『しらおり』？<br>……違う、よね？<br><br>会員　MtFしらおり　自己紹介｜性別不合当事者の会 <a href="https://twitter.com/tsatgism?ref_src=twsrc%5Etfw">@tsatgism</a> <a href="https://twitter.com/hashtag/note?src=hash&amp;ref_src=twsrc%5Etfw">#note</a> <a href="https://t.co/I3pI6kww3J">https://t.co/I3pI6kww3J</a></p>&mdash; 神條遼🔥🌋 (@kamijoharuka_47) <a href="https://twitter.com/kamijoharuka_47/status/1537721780269629440?ref_src=twsrc%5Etfw">June 17, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">あ、あの『しらおり』なん……？</p>&mdash; 神條遼🔥🌋 (@kamijoharuka_47) <a href="https://twitter.com/kamijoharuka_47/status/1537733468121362432?ref_src=twsrc%5Etfw">June 17, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">これも「性別不合当事者の会」の会員なのか。ヤバい人材集まりすぎでは。<a href="https://t.co/GLyof8wMXa">https://t.co/GLyof8wMXa</a> <a href="https://t.co/rtsKvZjRod">pic.twitter.com/rtsKvZjRod</a></p>&mdash; デストロイヒューマンゾンビ🏳️‍⚧️ (@AntihumanZombie) <a href="https://twitter.com/AntihumanZombie/status/1537725018536550400?ref_src=twsrc%5Etfw">June 17, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">会を抜けた人が口を揃えて言うのは、特例法を温存したうえで女性と共生で団結してたところに、あなたは特例法を真っ向から否定する人を会員に確認せずに勝手に共同代表にしてしまった事。<br>女スペ会ですら特例法まで否定していないのに当事者がそこを否定するのおかしいでしょって話だよ。</p>&mdash; 🍓kupipi🍓 (@haramaki_kupipi) <a href="https://twitter.com/haramaki_kupipi/status/1557882510964846592?ref_src=twsrc%5Etfw">August 12, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">不合の会は事実上第二の女スペ会になってる　<br>次の方向性はにじーずだって<br>今の代表のふぉれすてぃと裏で牛耳ってるみさねこが元凶<br>当事者意見にも何も寄り添ってないから共同代表含む会員の1/4が一気に脱退した<br>そしてふぉれすてぃは当事者では無いのでもう当事者会ではなくなった</p>&mdash; すずか/Neo (@neo_1020_) <a href="https://twitter.com/neo_1020_/status/1533024508805754880?ref_src=twsrc%5Etfw">June 4, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ついに極右雑誌『正論』に「女性スペースを守る会」と「性別不合当事者の会」が登場するんですね。おめでとうございます🎊🎊🎊🎉🎉🎉<a href="https://t.co/34feiayB9x">https://t.co/34feiayB9x</a></p>&mdash; デストロイヒューマンゾンビ🏳️‍⚧️ (@AntihumanZombie) <a href="https://twitter.com/AntihumanZombie/status/1553642401209942017?ref_src=twsrc%5Etfw">July 31, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">この団体は、性別適合手術のことを「美容整形か何かですか？」と言い、更には「公開フェチ」「趣味」という中傷やデマをRTしています。<br><br>私は性別適合手術を望む人が、なるべく受けやすい体制が整えられることを望んでいますが、<br>この団体の行いは、当事者の会を標榜しながら偏見を煽るものです。 <a href="https://t.co/2Q126ny4r4">pic.twitter.com/2Q126ny4r4</a></p>&mdash; 弁護士仲岡しゅん(うるわ総合法律事務所) (@URUWA_L_O) <a href="https://twitter.com/URUWA_L_O/status/1545779865357430784?ref_src=twsrc%5Etfw">July 9, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

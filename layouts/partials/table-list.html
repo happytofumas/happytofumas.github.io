@@ -1,0 +1,24 @@
+<table class="tableList">
+    <thead>
+        <tr>
+            {{- with site.Params.headers }}
+            <th>{{.key}}</th>
+            {{- end }}
+        </tr>
+    </thead>
+    <tbody id="tableListBody">
+        {{- if not .IsHome }}
+        {{- range .RegularPages}}
+        <tr>
+            <td><a href="{{.RelPermalink}}">{{ .Title }}</a></td>
+        </tr>
+        {{- end }}
+        {{- else }}
+        {{- range site.RegularPages}}
+        <tr>
+            <td><a href="{{.RelPermalink}}">{{ .Title }}</a></td>
+        </tr>
+        {{- end }}
+        {{- end }}
+    </tbody>
+</table>

@@ -1,0 +1,12 @@
+---
+title: "文学金魚"
+tags: ["小原眞紀子", "三浦俊彦", "石川良策", "齋藤都"]
+---
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">■【新連載】No001『トーク@セクシュアリティ―LGBTQ＋は法的保護の対象か？』小原眞紀子×三浦俊彦 横書版をアップしました ■<a href="https://t.co/lf8sD2zuYV">https://t.co/lf8sD2zuYV</a><a href="https://twitter.com/hashtag/%E6%80%A7%E5%90%8C%E4%B8%80%E6%80%A7%E9%9A%9C%E5%AE%B3%E8%80%85%E3%81%AE%E6%80%A7%E5%88%A5%E3%81%AE%E5%8F%96%E6%89%B1%E3%81%84%E3%81%AE%E7%89%B9%E4%BE%8B%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E6%B3%95%E5%BE%8B?src=hash&amp;ref_src=twsrc%5Etfw">#性同一性障害者の性別の取扱いの特例に関する法律</a><a href="https://twitter.com/hashtag/%E6%80%A7%E7%9A%84%E6%8C%87%E5%90%91%E3%81%8A%E3%82%88%E3%81%B3%E6%80%A7%E5%90%8C%E4%B8%80%E6%80%A7%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E5%9B%BD%E6%B0%91%E3%81%AE%E7%90%86%E8%A7%A3%E5%A2%97%E9%80%B2%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E6%B3%95%E5%BE%8B?src=hash&amp;ref_src=twsrc%5Etfw">#性的指向および性同一性に関する国民の理解増進に関する法律</a> <a href="https://t.co/hVrpLHqMHT">pic.twitter.com/hVrpLHqMHT</a></p>&mdash; 文学金魚 (@bungakukingyo) <a href="https://twitter.com/bungakukingyo/status/1663926996785848320?ref_src=twsrc%5Etfw">May 31, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">小原眞紀子って誰だよって感じだけど、三浦俊彦と仲良くおしゃべりしてる時点でどういう人物かなんとなくわかりました。あとこんなヘイト文を載せちゃう文学金魚なるサイトも酷いな。<a href="https://t.co/wt3LR1qiEo">https://t.co/wt3LR1qiEo</a></p>&mdash; 人間怖い🏳️‍⚧️ (@AntihumanZombie) <a href="https://twitter.com/AntihumanZombie/status/1664435827416633344?ref_src=twsrc%5Etfw">June 2, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">そりゃ三浦俊彦と仲良く対談しちゃうよなと納得……。 <a href="https://t.co/hmaG8yKy62">pic.twitter.com/hmaG8yKy62</a></p>&mdash; 人間怖い🏳️‍⚧️ (@AntihumanZombie) <a href="https://twitter.com/AntihumanZombie/status/1664441022020190208?ref_src=twsrc%5Etfw">June 2, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">「スカトロ」は趣味なんだろうが“覗き”は犯罪だ。ってか、ちゃんと「窃視」って言えよ。<br>しかも三浦俊彦は盗撮の被害者を“ブス・デブども”などと罵倒している。絶対に許してはならない。 <a href="https://t.co/MX94KuBcRZ">pic.twitter.com/MX94KuBcRZ</a></p>&mdash; kaerufrog0033 (@kaerufrog0033) <a href="https://twitter.com/kaerufrog0033/status/1551160357997395968?ref_src=twsrc%5Etfw">July 24, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

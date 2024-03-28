@@ -1,0 +1,36 @@
+baseURL = 'https://happytofumas.github.io/'
+languageCode = 'ja-jp'
+title = 'トランスヘイトに加担している人物・団体のリスト'
+theme = 'index'
+pygmentsUseClasses = true
+relativeURLs = true
+images = ["banner.png"]
+
+[markup.highlight]
+codeFences = true
+guessSyntax = true
+lineNos = false
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[params.headers]
+key = "Title"
+value = "Tags"
+
+[permalinks]
+tags = "タグ@:slug"
+
+[taxonomies]
+tag = "tags"
+
+[outputs]
+home = [ "HTML", "RSS", "JSON" ]
+
+[privacy.twitter]
+disabled = false
+enableDNT = true
+simple = true
+
+[params]
+hideAllTagsinHome = true

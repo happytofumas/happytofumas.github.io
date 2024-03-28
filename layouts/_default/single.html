@@ -1,0 +1,33 @@
+{{- define "main" }}
+
+<ul class="tagsList single">
+    {{ range (.GetTerms "tags") }}
+    <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+    {{ end }}
+</ul>
+
+{{- .Content }}
+
+<div class="gallery">
+    {{ range .Resources.ByType "image" }}
+    {{ $original := . }}
+    {{ $thumbnail := $original.Fit "600x400 webp" }}
+    <a href="{{ $original.RelPermalink }}" target="_blank">
+        <img src="{{ $thumbnail.RelPermalink }}" />
+    </a>
+    {{ end }}
+</div>
+
+<script src="https://utteranc.es/client.js"
+        repo="happytofumas/happytofumas.github.io"
+        issue-term="pathname"
+        theme="preferred-color-scheme"
+        crossorigin="anonymous"
+        async>
+</script>
+
+{{ range .Resources.ByType "text" }}
+    <p style="font-size: 1px;" aria-hidden="true">{{ .Content }}</p>
+{{ end }}
+
+{{- end }}{{- /* end main */ -}}
